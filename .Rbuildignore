@@ -1,5 +1,9 @@
 ^applepie\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+<<<<<<< HEAD
 ^\.github$
 ^codecov\.yml$
+=======
+^LICENSE\.md$
+>>>>>>> 69e0be01fcb49131fcff4bef349db1fa4504c85d
