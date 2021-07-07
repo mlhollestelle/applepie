@@ -20,7 +20,8 @@ Imports:
     jsonlite,
     tibble,
     withr,
-    testthat
+    testthat,
+    whoami
 Suggests: 
     vcr (>= 0.6.0),
     covr,
