@@ -11,7 +11,6 @@ URL: https://github.com/maelle/applepie
 BugReports: https://github.com/maelle/applepie/issues
 Imports: 
     httr,
-<<<<<<< HEAD
     jsonlite,
     tibble,
     withr
@@ -20,6 +19,5 @@ Suggests:
 =======
     jsonlite
 Suggests: 
->>>>>>> 69e0be01fcb49131fcff4bef349db1fa4504c85d
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
